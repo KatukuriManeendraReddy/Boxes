@@ -1,0 +1,50 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #0f172a;
+  font-family: "Roboto";
+}
+.inner-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.box1 {
+  background-color: #fbbf24;
+  color: #ffffff;
+  font-family: "Bree serif";
+  height: 125px;
+  width: 125px;
+  align-self: flex-end;
+  margin: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box2 {
+  background-color: #38bdf8;
+  color: #ffffff;
+  font-family: "Bree serif";
+  height: 250px;
+  width: 250px;
+  align-self: flex-end;
+  margin: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box3 {
+  background-color: #ec4899;
+  color: #ffffff;
+  font-family: "Bree serif";
+  height: 375px;
+  width: 375px;
+  margin: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
